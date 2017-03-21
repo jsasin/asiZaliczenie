@@ -14,3 +14,8 @@ Aplikacja internetowa typu CRUD zawierająca broń: jej nazwę, kaliber oraz opi
 ### Gemy:<br/>
 
 - Redcarpet - Autolinki dopuszczone do użytku
+
+
+
+
+!! Błąd widoku przy rejestracji, nałożony 1 zbędny widok. !!
